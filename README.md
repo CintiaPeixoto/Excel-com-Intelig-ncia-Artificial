@@ -4,9 +4,10 @@ Repositório desenvolvido para compartilhar os projetos desenvolvidos durante o 
 
 | Status dos Projeto |
 |---------|
-| [**Projeto 1** ✅ ](#projeto-1---ferramenta-de-controle-de-investimentos) |
-| [**Projeto 2** ✅ ](#projeto-2---ferramenta-de-organição-de-informações) |
-| [**Projeto 3** 🔄 ] |
+| [**Projeto 1** ✅ ](#Projeto-1---ferramenta-de-controle-de-investimentos) |
+| [**Projeto 2** ✅ ](#Projeto-2---ferramenta-de-organição-de-informações do IR) |
+| [**Projeto 3** ✅ ](#Projeto-3---ferramenta-de-visualização-das-vendas) |
+| [**Extra** 🧩 ](#Extra---ferramenta-de-acompanhamento-de-progresso) |
 
 ---
 
@@ -26,7 +27,7 @@ A ferramenta permite simular os resultados esperados com base nas informações 
 
 ---
 
-## 📌 Projeto 2 - Ferramenta de organização de informações
+## 📌 Projeto 2 - Ferramenta de organização de informações do IR
 Desenvolvimento de uma planilha no Excel para organização das informações necessárias para a declaração do imposto de renda.
 A ferramenta permite organizar com base no tipo de informações fornecidas, apresentando fácil navegabilidade entre as abas.
 
@@ -42,5 +43,20 @@ A ferramenta permite organizar com base no tipo de informações fornecidas, apr
 
 ---
 
-## 📌 Projeto 3
-Descrição do Projeto 3 a ser preenchida futuramente.
+## 📌 Projeto 3 - Ferramenta de visualização das vendas
+Desenvolvimento de um dashboard interativo no Excel voltado para a análise eficaz do desempenho de vendas. A ferramenta foi estruturada para oferecer uma visão clara, dinâmica e estratégica dos resultados, permitindo a tomada de decisões com base em dados atualizados e bem organizados.
+
+Principais funcionalidades e recursos utilizados:
+
+▪️Tabelas Dinâmicas para consolidação e segmentação dos dados
+
+▪️Gráficos Dinâmicos para visualização das métricas
+
+▪️Organização e Estilização para um layout profissional e facilitar a leitura e interpretação
+
+▪️Contextualização das Informações para análises e tomada de decisões
+
+---
+
+## 📌 Extra
+Durante a primeira aula foi desenvolvida uma planilha no Excel para monitoramento do progresso do curso dividido. A ferramenta foi projetada para oferecer uma visão clara do progresso, permitindo o acompanhamento por aulas, com definição de prazos e prioridades.
