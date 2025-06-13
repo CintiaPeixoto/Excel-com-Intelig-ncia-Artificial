@@ -6,7 +6,7 @@ Repositório desenvolvido para compartilhar os projetos desenvolvidos durante o 
 |---------|
 | [**Projeto 1** ✅ ](#Projeto-1---ferramenta-de-controle-de-investimentos) |
 | [**Projeto 2** ✅ ](#Projeto-2---ferramenta-de-organição-de-informações-do-IR)|
-| [**Projeto 3** ✅ ](#Projeto-3---ferramenta-de-visualização-das-vendas) |
+| [**Projeto 3** ✅ ](#Excel-com-Intelig-ncia-Artificial/blob/main/Projeto3.xlsx) |
 | [**Extra** 🧩 ](#Extra---ferramenta-de-acompanhamento-de-progresso) |
 
 ---
